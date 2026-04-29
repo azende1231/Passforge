@@ -1,0 +1,8 @@
+﻿  Passforge.cpp
+T:\Projects\Passforge\Passforge\Passforge\Passforge.cpp(6,11): error C2143: syntax error: missing ';' before '<<'
+T:\Projects\Passforge\Passforge\Passforge\Passforge.cpp(6,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+T:\Projects\Passforge\Passforge\Passforge\Passforge.cpp(6,6): error C2371: 'std::cout': redefinition; different basic types
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.43.34808\include\iostream(40,75):
+      see declaration of 'std::cout'
+  
+T:\Projects\Passforge\Passforge\Passforge\Passforge.cpp(6,11): error C2059: syntax error: '<<'
